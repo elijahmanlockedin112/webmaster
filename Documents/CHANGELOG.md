@@ -18,3 +18,4 @@
 | November 27, 2026 | Fixed the stylesheet link, added classes and lang="en", and moved the site files to the repo root so GitHub Pages can publish them | Team |
 | November 27, 2026 | Added the Learn, My Progress and References pages | Team |
 | November 27, 2026 | Gave Claude permission to keep this changelog updated, and recorded why in lessons-learned.md | Team |
+| November 27, 2026 | Published the site with GitHub Pages: https://elijahmanlockedin112.github.io/webmaster/ | Team |
