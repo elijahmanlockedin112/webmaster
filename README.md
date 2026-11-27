@@ -8,4 +8,4 @@ A free site where any high school student can go from “what is ai” to using 
 
 High school students
 
-[Changelog](CHANGELOG.md)
+[Changelog](Documents/CHANGELOG.md)
