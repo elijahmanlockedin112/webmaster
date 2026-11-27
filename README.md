@@ -11,7 +11,7 @@ High school Students, 9th-12th grade
 ## Links
 
 |Link|Description|
-|....|...........|
+|----|-----------|
 |[Changelog](Documents/CHANGELOG.md)|A log describing changes and progress over time|
 |[AI Usage](Documents/AI-USAGE.md)|Explanation of AI Usage in this project|
 |[Brainstorm](Documents/BRAINSTORM.md)|Original brainstorm document regarding target audience, purpose, etc.|
