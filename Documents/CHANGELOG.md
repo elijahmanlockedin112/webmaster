@@ -14,3 +14,4 @@
 | November 27, 2026 | Wrote the README and started WHY.md, a log of decisions and how AI was used in each | Team |
 | November 27, 2026 | Learned Git basics (add, commit, push, branches) and organized the docs into a Documents folder | Team, with Claude explaining |
 | November 27, 2026 | Started hand-coding the site: home page skeleton (charset, viewport, title), header with logo and nav, main, footer, empty stylesheet | Team (hand-written); Claude explained new tags and reviewed |
+| November 27, 2026 | Fixed the stylesheet link, added classes and lang="en", and moved the site files to the repo root so GitHub Pages can publish them | Team (hand-written) after Claude's review |
