@@ -42,8 +42,33 @@ nav a{
     color: var(--ink);
     font-size: 20px;
 }
-nav :hover {
+nav:hover {
     color: var(--ink);
     text-decoration: underline var(--brand);
 }
 
+main {
+    padding: 3px 10px;
+}
+h1 {
+    font-weight: 1000;
+    text-decoration:none;
+    color: var(--ink);
+    letter-spacing: -0.04em;
+    font-size: 90px;
+    text-align: left;
+    line-height:1;
+}
+.right {
+    background-color: var(--green);
+}
+
+.button {
+    background-color: var(--brand);
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    font-weight: 800;
+    border-radius: 10px;
+    font-size: 40px;
+}
