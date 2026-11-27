@@ -13,3 +13,4 @@
 | November 27, 2026 | Simplified the prototype home page to match the plan: one-line pitch, one Start Learning button, the three modules | Built by Claude at the team's request |
 | November 27, 2026 | Wrote the README and started WHY.md, a log of decisions and how AI was used in each | Team |
 | November 27, 2026 | Learned Git basics (add, commit, push, branches) and organized the docs into a Documents folder | Team, with Claude explaining |
+| November 27, 2026 | Started hand-coding the site: home page skeleton (charset, viewport, title), header with logo and nav, main, footer, empty stylesheet | Team (hand-written); Claude explained new tags and reviewed |
