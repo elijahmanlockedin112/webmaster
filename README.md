@@ -18,4 +18,4 @@ High school Students, 9th-12th grade
 |[Why](Documents/WHY.md)|Explains the reasoning behind certain design decisions|
 |[Lessons Learned](Documents/lessons-learned.md)|Mistakes made need lessons learned to avoid making them again.|
 |[Live Github Pages Site](https://elijahmanlockedin112.github.io/webmaster/)|Access to see current version of the site|
-|[Prototypes](https://github.com/elijahmanlockedin112/academy-prototype)|AI Created, human inspired prototypes for the website. All code in the real site is writtten by hand. However, agentic coding tools can help speed up prototyping.|
+|[Prototypes](https://github.com/elijahmanlockedin112/academy-prototype)|AI Created, human inspired prototypes for the website. All code in the real site is written by hand. However, agentic coding tools can help speed up prototyping.|
