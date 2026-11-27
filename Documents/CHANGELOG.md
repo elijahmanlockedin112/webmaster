@@ -19,3 +19,4 @@
 | November 27, 2026 | Added the Learn, My Progress and References pages | Team |
 | November 27, 2026 | Gave Claude permission to keep this changelog updated, and recorded why in lessons-learned.md | Team |
 | November 27, 2026 | Published the site with GitHub Pages: https://elijahmanlockedin112.github.io/webmaster/ | Team |
+| November 27, 2026 | **PROTOTYPE:** published in its own separate repository (github.com/elijahmanlockedin112/academy-prototype), with a PROTOTYPE banner on every page, so it can be shared without mixing its code into the entry | Claude, directed by Team |
