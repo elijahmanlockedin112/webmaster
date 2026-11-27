@@ -22,3 +22,6 @@
 | November 27, 2026 | **PROTOTYPE:** published in its own separate repository (github.com/elijahmanlockedin112/academy-prototype), with a PROTOTYPE banner on every page, so it can be shared without mixing its code into the entry | Claude, directed by Team |
 | November 27, 2026 | Wrote AI-USAGE.md, the project's AI policy (moved from lessons-learned.md), with a link to the prototype repo | Team |
 | November 27, 2026 | Added a Links table to the README for every project document, the live site and the prototype, then fixed the table formatting and a typo | Team |
+| November 27, 2026 | First styling: color variables, the Nunito font and body styles | Team |
+| November 27, 2026 | Styled the header with flexbox: heavy logo with a magenta dot, spaced nav links with a hover underline, divider line | Team |
+| November 27, 2026 | Added the logo class to the footer and fixed the nav hover selector | Team |
