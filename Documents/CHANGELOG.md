@@ -25,3 +25,4 @@
 | November 27, 2026 | First styling: color variables, the Nunito font and body styles | Team |
 | November 27, 2026 | Styled the header with flexbox: heavy logo with a magenta dot, spaced nav links with a hover underline, divider line | Team |
 | November 27, 2026 | Added the logo class to the footer and fixed the nav hover selector | Team |
+| November 27, 2026 | Home page first draft: headline with green highlight, one-sentence pitch, Start Learning button; marked the current page in the nav | Team |
