@@ -10,3 +10,6 @@
 | November 27, 2026 | Decided how AI will be used from now on: all site code hand-written, AI for teaching, prototypes, research and mentoring (lessons-learned.md) | Team |
 | November 27, 2026 | Created the GitHub repository | Team |
 | November 27, 2026 | Reference prototype: roadmap, lesson 1.1 (shorts feed, Ring Sort game, quiz), My Progress, References | Built by Claude from BRAINSTORM.md, as a guide for the hand-coded site |
+| November 27, 2026 | Simplified the prototype home page to match the plan: one-line pitch, one Start Learning button, the three modules | Built by Claude at the team's request |
+| November 27, 2026 | Wrote the README and started WHY.md, a log of decisions and how AI was used in each | Team |
+| November 27, 2026 | Learned Git basics (add, commit, push, branches) and organized the docs into a Documents folder | Team, with Claude explaining |
