@@ -9,5 +9,6 @@ At the beginning of the project, I was completely ignorant to web design. I stil
   -All code in the website will be human written. However, agentic coding tools are extremely powerful. These can be used to get ideas straight into prototypes. Once the prototype is at a good quality, then I will code based off of the prototype.
 - Research and Finding Sources
 - Acting as a Project Mentor
+- Updates Changelog/Documents
 
 I believe that these are ethical ways to use AI. I am learning a lot, and that is the exciting part! 
