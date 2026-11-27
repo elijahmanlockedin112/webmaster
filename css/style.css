@@ -10,7 +10,8 @@
 
 body {
     font-family: "Nunito", sans-serif;
-    background-color: var(--paper)
-    color: var(--ink)
-    margin: 0
+    background-color: var(--paper);
+    color: var(--ink);
+    margin: 0;
 }
+
