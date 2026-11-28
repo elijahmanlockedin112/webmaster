@@ -42,7 +42,7 @@ nav a{
     color: var(--ink);
     font-size: 20px;
 }
-nav:hover {
+nav a:hover {
     color: var(--ink);
     text-decoration: underline var(--brand);
 }
