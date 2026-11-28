@@ -28,3 +28,5 @@
 | November 27, 2026 | Home page first draft: headline with green highlight, one-sentence pitch, Start Learning button; marked the current page in the nav | Team |
 | November 28, 2026 | Fixed the nav hover so only the hovered link underlines | Team |
 | November 28, 2026 | Home page layout: headline beside a hero image, Start Learning button beside the pitch (flexbox), bolder nav links, renamed classes to lowercase-with-dashes | Team |
+| November 28, 2026 | Converted the hero image to WebP so it loads faster | Team |
+| November 28, 2026 | Hero overhaul: headline, pitch and Start Learning button grouped on the left, image on the right | Team |
