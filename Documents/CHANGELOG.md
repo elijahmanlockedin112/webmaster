@@ -33,3 +33,7 @@
 | November 28, 2026 | Hero overhaul: headline, pitch and Start Learning button grouped on the left, image on the right | Team |
 | November 28, 2026 | Footer: divider line, logo on the left, tagline on the right; trimmed the hero image's empty space | Team |
 | November 28, 2026 | Added AI-made assets to the AI policy and started a running log of every AI use (AI-USAGE.md) | Team |
+| November 28, 2026 | Wrote down the reasoning behind design choices so far (WHY.md) | Team |
+| November 28, 2026 | Tried restyling the button arrow, kept the original, and recorded the decision | Team |
+| November 28, 2026 | Added a max-width wrapper so the header, content and footer stay centered on wide screens | Team |
+| November 28, 2026 | Changed the headline back to an h1 for accessibility and replaced line-break spacing with CSS margins | Team |
