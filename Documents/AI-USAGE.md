@@ -16,6 +16,7 @@ Below are some ways that I believe AI can be used ethically in this project.
 
 |Date|Item|AI Tool|Where|
 |----|----|-------|-----|
+|Throughout Project|Keeping up with changelog. The workflow: Looks at git commits, and adds them to [the Changelog](Documents/CHANGELOG.md)|Claude Opus 5.5|5.|
 |11/27/26|Helped me understand various technical concepts, such as Git Workflows and Advanced Display Types|Claude Opus 5.5|4.|
 |11/28/26|Created the Hero Image|ChatGPT|6.|
 |11/28/26|Taught me about Alignment, Proximity, and White space|Claude Opus 5.5|4.|
