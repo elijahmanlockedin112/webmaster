@@ -7,7 +7,9 @@
     --paper: #fafafa;
     --blue: #cfe2f3;
 }
-
+main {
+    margin: 20px 0px;
+}
 body {
     font-family: "Nunito", sans-serif;
     background-color: var(--paper);
@@ -61,7 +63,8 @@ main {
     font-size: 60px;
     text-align: left;
     line-height:1.2;
-    width: 100%
+    width: 100%;
+    margin: 0;
 }
 
 .headline {
