@@ -74,13 +74,15 @@ main {
 }
 
 .headline img {
-    width:30%;
+    width:30em;
+    height: auto;
 }
 
 .secondarymotto {
     font-size: 25px;
     width: 50%;
     display: inline-block;
+    font-weight: 700;
 }
 .right {
     background-color: var(--green);
