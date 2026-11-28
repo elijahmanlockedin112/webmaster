@@ -102,3 +102,15 @@ main {
 .cta {
     width: 50%;
 }
+
+.hero {
+    padding: 0px 0px 0px 20px;
+}
+
+footer {
+    border-top: 1px solid #d5d8d2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 32px;
+}
