@@ -31,3 +31,5 @@
 | November 28, 2026 | Hero image (student at a laptop with an AI helper and learning icons) | ChatGPT, directed by Team |
 | November 28, 2026 | Converted the hero image to WebP so it loads faster | Team |
 | November 28, 2026 | Hero overhaul: headline, pitch and Start Learning button grouped on the left, image on the right | Team |
+| November 28, 2026 | Footer: divider line, logo on the left, tagline on the right; trimmed the hero image's empty space | Team |
+| November 28, 2026 | Added AI-made assets to the AI policy and started a running log of every AI use (AI-USAGE.md) | Team |
