@@ -10,3 +10,4 @@
 |11/227/26|A Purple Dot|The purple dot contrasts the green (opposite colors) and makes the logo look more exciting|None|
 |11/28/26|Decided on a Hero Section with the title, text, and CTA on the left, with an image on the right|It was the best layout that we could find that didn't feel cramped or empty, it was in the middle. There is consistent padding, and the colors in the image compliment the colors in the text as well|None|
 |11/28/26|Green Background = Black Text, Purple Background = White Text|Contrast. Black on purple is too dark, and white on green is too light.|None|
+|11/28/26|Decided that the arrow in the button in the hero section should remain white, and not be green|The green arrow could confuse people to think that it is separate from the Start Learning entity.|AI used as a second opinion, it agreed (Claude Sonnet 5.5)|
