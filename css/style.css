@@ -36,11 +36,14 @@ header{
 nav {
     display: flex;
     gap: 60px;
+    
 }
 nav a{
     text-decoration: none;
     color: var(--ink);
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: 750;
+    letter-spacing: -0.03em;
 }
 nav a:hover {
     color: var(--ink);
@@ -50,17 +53,38 @@ nav a:hover {
 main {
     padding: 3px 10px;
 }
-h1 {
+.motto {
     font-weight: 1000;
     text-decoration:none;
     color: var(--ink);
     letter-spacing: -0.04em;
-    font-size: 90px;
+    font-size: 60px;
     text-align: left;
-    line-height:1;
+    line-height:1.2;
+    width: 50%
+}
+.cta-text {
+    display: flex;
+    gap: 60px;
+    align-items: center;
+}
+.headline {
+    display: flex;
+    gap: 50px;
+}
+
+.headline img {
+    width:30%;
+}
+
+.secondarymotto {
+    font-size: 25px;
+    width: 50%;
+    display: inline-block;
 }
 .right {
     background-color: var(--green);
+    border-radius: 5px;
 }
 
 .button {
@@ -71,4 +95,5 @@ h1 {
     font-weight: 800;
     border-radius: 10px;
     font-size: 40px;
+    display: inline-block;
 }
